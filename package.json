@@ -1,0 +1,11 @@
+{
+  "name": "cordova-plugin-mimetype",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-mimetype",
+    "platforms": [
+      "android"
+    ]
+  },
+  "description": "Plugin to patch mimetype for URLConnection"
+}
